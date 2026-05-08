@@ -8,6 +8,3 @@ Software Requirements Specification for a Digital Menu for Food Establishments
 
 ## Autor 
 - Марія Краснокутська Олексіївна
-- Харківський національний університет радіоелектроніки
-- Основи програмної інженерії
-- 2026
